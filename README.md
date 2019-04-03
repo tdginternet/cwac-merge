@@ -1,3 +1,9 @@
+# :rotating_light: WARNING
+
+**This repository is DEPRECATED and not maintaned anymore.**
+
+--- 
+
 CWAC MergeAdapter: Stitching Together Rows
 ==========================================
 
